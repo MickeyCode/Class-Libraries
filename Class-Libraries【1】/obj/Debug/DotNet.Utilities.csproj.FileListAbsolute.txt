@@ -1,0 +1,23 @@
+E:\DotNet.Xofly\DotNet.Utilities\bin\Debug\DotNet.Utilities.dll
+E:\DotNet.Xofly\DotNet.Utilities\bin\Debug\DotNet.Utilities.pdb
+E:\DotNet.Xofly\DotNet.Utilities\obj\Debug\ResolveAssemblyReference.cache
+E:\DotNet.Xofly\DotNet.Utilities\obj\Debug\DotNet.Utilities.dll
+E:\DotNet.Xofly\DotNet.Utilities\obj\Debug\DotNet.Utilities.pdb
+E:\DotNet.Xofly\DotNet.Utilities\bin\Debug\OWC10Chart.dll
+E:\DotNet.Xofly\DotNet.Utilities\bin\Debug\Excel.dll
+E:\DotNet.Xofly\DotNet.Utilities\bin\Debug\office.dll
+E:\DotNet.Xofly\DotNet.Utilities\bin\Debug\Microsoft.Vbe.Interop.dll
+E:\DotNet.Xofly\DotNet.Utilities\bin\Debug\itextsharp.dll
+E:\DotNet.Xofly\DotNet.Utilities\bin\Debug\ICSharpCode.SharpZipLib.dll
+E:\02 编程知识储备\3 C#\.NET-\00 类库积累1\bin\Debug\DotNet.Utilities.dll
+E:\02 编程知识储备\3 C#\.NET-\00 类库积累1\bin\Debug\DotNet.Utilities.pdb
+E:\02 编程知识储备\3 C#\.NET-\00 类库积累1\bin\Debug\Excel.dll
+E:\02 编程知识储备\3 C#\.NET-\00 类库积累1\bin\Debug\ICSharpCode.SharpZipLib.dll
+E:\02 编程知识储备\3 C#\.NET-\00 类库积累1\bin\Debug\itextsharp.dll
+E:\02 编程知识储备\3 C#\.NET-\00 类库积累1\bin\Debug\Microsoft.Office.Interop.Owc11.dll
+E:\02 编程知识储备\3 C#\.NET-\00 类库积累1\bin\Debug\OWC10Chart.dll
+E:\02 编程知识储备\3 C#\.NET-\00 类库积累1\bin\Debug\office.dll
+E:\02 编程知识储备\3 C#\.NET-\00 类库积累1\bin\Debug\Microsoft.Vbe.Interop.dll
+E:\02 编程知识储备\3 C#\.NET-\00 类库积累1\obj\Debug\DotNet.Utilities.csprojResolveAssemblyReference.cache
+E:\02 编程知识储备\3 C#\.NET-\00 类库积累1\obj\Debug\DotNet.Utilities.dll
+E:\02 编程知识储备\3 C#\.NET-\00 类库积累1\obj\Debug\DotNet.Utilities.pdb
